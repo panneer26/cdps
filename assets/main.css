@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+   background-color: lavender;
+    color: white;
+}
+.parallax { 
+  background-image: url("img/bg/foc.gif");
+  height: 800; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+    font-family: gabriola;
+    
+}
+.abt{
+    background-image: url("img/bg/ab.jpg");
+  width: 100%; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.skl{
+    background-image: url("img/bg/atom.gif");
+  height: 1000; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	display: inline-block;
+	
+
+}
+.cn{
+     background-image: url("img/bg/cn.jpg");
+  width: 100%; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
