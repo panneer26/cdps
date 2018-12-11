@@ -1,2 +1,2 @@
- # http://panneer2699.gitgub.io
+ # http://panneer2699.github.io
 
