@@ -5,6 +5,7 @@
 body{
    background-color: lavender;
     color: white;
+	scroll-behavior: smooth;
 }
 .parallax { 
   background-image: url("img/bg/foc.gif");
@@ -25,6 +26,7 @@ h1{
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+	scroll-behavior: smooth;
 }
 .skl{
     background-image: url("img/bg/atom.gif");
@@ -44,4 +46,5 @@ h1{
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+	scroll-behavior: smooth;
 }
